@@ -4,7 +4,7 @@
 
 <b> 
 
-- 📝 [배경&목표]([#-1.캡스톤디자인의 배경과 목표](https://github.com/ghkstod/capstone_musicgen/blob/main/README.md#1%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%EB%B0%B0%EA%B2%BD%EA%B3%BC-%EB%AA%A9%ED%91%9C))
+- 📝 [배경&목표](https://github.com/ghkstod/capstone_musicgen/blob/main/README.md#1%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%EB%B0%B0%EA%B2%BD%EA%B3%BC-%EB%AA%A9%ED%91%9C))
 
 </b>
 
