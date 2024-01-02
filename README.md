@@ -22,7 +22,7 @@
 -결과적으로 음악을 생성하는 것은 생성형 AI인 Meta의 MusricGen을 사용하며 MusicGen이 해당 텍스트에 어울리는 음악을 생성할 수 있도록 텍스트에서 요약, 감정, 음악적 요소 등을 추출하는 모델을 제작
 
 ### **2. 사용된 기술 및 도구**
-##### python(pandas, matplotlib, pyplot)
+##### python(pandas, matplotlib, seaborn)
 - 수집한 데이터의 전처리 및 시각화
 ##### BERT
 - 감정을 추출하는 모델
